@@ -1850,7 +1850,7 @@ async def rekt( ctx, user1 : discord.Member):
 
 
 
-client.run('NzIyNzIwOTc5MjQ3MTY5NTQ3.XunUVw.xERX3uXamxLtqZXGH1cyRdD7w3E')
+client.run('كسمك go get a life')
 while True:
     print("died")
     time.sleep(1)
